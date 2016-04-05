@@ -11,7 +11,7 @@ git clone https://github.com/wucao/tomcat-comet-chat-room-demo.git
 cd tomcat-comet-chat-room-demo
 mvn tomcat7:run
 ```
-成功后可以在http://localhost:8080/查看实时日志。
+启动成功后可以用浏览器打开http://localhost:8080/来测试聊天室。
 
 ## 相关文档：
 Advanced IO and Tomcat： http://tomcat.apache.org/tomcat-7.0-doc/aio.html
