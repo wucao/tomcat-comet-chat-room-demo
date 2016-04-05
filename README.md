@@ -2,7 +2,7 @@
 
 相关博客：http://xxgblog.com/2014/08/11/tomcat-comet-web-chat/
 
-![Web聊天室](http://img.blog.csdn.net/20140811092310240)
+![Web聊天室](http://img.blog.csdn.net/20140811092310240?hehe)
 
 ## Getting Started
 用Tomcat Maven插件运行Demo：
